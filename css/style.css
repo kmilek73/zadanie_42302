@@ -1,0 +1,17 @@
+.kwadrat {
+    width: 100px;
+    height: 100px;
+    background-color:#fea500;
+}
+
+
+.tekst {
+    color: white;
+}
+
+.ramka {
+    margin-left: 20px;
+    padding-left: 20px;
+    background-color:#808080;
+    width: 200px;
+}
